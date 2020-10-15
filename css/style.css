@@ -1,3 +1,8 @@
-h1 {
-    color: red;
+
+body {
+    background-color:#5a6263 ;
+}
+
+    h1, h2 {
+    color: #fff;
 }
