@@ -32,7 +32,6 @@ a:hover {
 }
 ul {
     list-style: none; /* Remove default bullets */
-
   }
   
   ul li::before {
